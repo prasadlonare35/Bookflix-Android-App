@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#FF3A4A89</color>         <!-- Deep navy blue -->
+    <color name="primaryDark">#FF28345C</color>     <!-- Darker navy -->
+    <color name="primaryLight">#FF5D6BAF</color>    <!-- Lighter navy -->
+
+    <!-- Secondary/Accent Colors -->
+    <color name="secondary">#FFE74C3C</color>       <!-- Vibrant coral red -->
+    <color name="secondaryLight">#FFEB7065</color>   <!-- Lighter coral -->
+    <color name="accent">#FFF39C12</color>          <!-- Warm orange -->
+
+    <!-- Background Colors -->
+    <color name="background">#FFF8F5F2</color>      <!-- Warm off-white -->
+    <color name="surface">#FFFFFFFF</color>         <!-- Pure white for cards -->
+    <color name="lightBackground">#FFFDFDFD</color> <!-- Slightly off-white -->
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#FF2C3E50</color>     <!-- Dark blue-gray -->
+    <color name="textSecondary">#FF7F8C8D</color>    <!-- Medium gray -->
+    <color name="textOnPrimary">#FFFFFFFF</color>    <!-- White text on primary -->
+    <color name="textOnSecondary">#FFFFFFFF</color>  <!-- White text on secondary -->
+
+    <!-- Status Colors -->
+    <color name="success">#FF27AE60</color>         <!-- Green -->
+    <color name="warning">#FFF39C12</color>         <!-- Orange (same as accent) -->
+    <color name="error">#FFE74C3C</color>           <!-- Red (same as secondary) -->
+
+    <!-- Grayscale -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_100">#FFF5F5F5</color>
+    <color name="gray_300">#FFE0E0E0</color>
+    <color name="gray_500">#FF9E9E9E</color>
+    <color name="gray_700">#FF616161</color>
+    <color name="gray_900">#FF212121</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+
+    <!-- Special Colors for Book App -->
+    <color name="bookShelf">#FFD7C9AA</color>      <!-- Vintage book shelf color -->
+    <color name="pageYellow">#FFF5E6C8</color>      <!-- Old book page color -->
+    <color name="bookmark">#FFE74C3C</color>        <!-- Bookmark color (matches secondary) -->
+</resources>
