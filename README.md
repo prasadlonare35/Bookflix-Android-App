@@ -42,12 +42,34 @@
 
 - **Android Studio**
 - **Java**
-- **Firebase** (if used for backend or book data)
+- **SQLite**
 - **REST API** (for dynamic book/author info)
 - **RecyclerView + CardView** for display
-- **Glide/Picasso** (if used for loading images/icons)
 
 ---
 
-## 📁 Folder Structure (Example)
+## 🚀 How to Run the App
 
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/BookFlix.git
+2. Open it in Android Studio.
+
+3. Sync Gradle & build the project.
+
+4. Run on emulator or physical device (Android 6.0+ recommended).
+
+---
+
+## 📌 Future Improvements
+- Add dark mode support 🌙
+- Add user authentication for personalized libraries 🔐
+- Download & offline reading option 📥
+- Admin panel to upload books or manage content 🧑‍💼
+
+---
+
+## 🎯 Purpose
+This project is part of my Mobile App Development learning journey. BookFlix combines creativity, UI design, and core Android components to create a helpful and user-friendly digital book experience.
+
+---
