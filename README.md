@@ -52,7 +52,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/BookFlix.git
+   git clone https://github.com/prasadlonare35/Bookflix-Android-App.git
 2. Open it in Android Studio.
 
 3. Sync Gradle & build the project.
